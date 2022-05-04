@@ -1,0 +1,19 @@
+const double elementTopPadding = 6;
+const double elementBottomPadding = 6.0;
+const double borderThickness = 1.0;
+const double rightEdgePadding = 4.0;
+const double elementIndent = 10.0;
+const double elementLeftPadding = 8.0;
+const double elementRightPadding = 16.0;
+const double elementIconWidthHeight = 48.0;
+const double expandCollapseIconSize = 30.0;
+const double selectedRowRightEdgePadding = 4.0;
+const int selectedRowRightEdgePaddingInt = 4;
+const String bullet = "•";
+const double elementNodeMenuButtonWidthHeight = 48.0;
+const int elementNodeCopyValueButtonWidth = 48;
+const double levelIndent =
+    0.5 * ((elementIconWidthHeight * 0.5) + elementIndent);
+const String separator = " ― ";
+const String maskedData = "***";
+const double minDataHeight = 6.5;
